@@ -1,6 +1,6 @@
 public class Documentacion {
 	public static void main(String[] args){
 		System.out.println("Welcome to Git World");
-		System.out.println("VERSION EN GITHUB");
+		System.out.println("VERSION EN GITHUuB");
 	}
 }
